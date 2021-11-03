@@ -1,2 +1,2 @@
-# cv
-A site containing my professional information
+# Curriculum Vitae
+A simple HTML site containing my professional information.
